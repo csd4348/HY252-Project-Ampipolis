@@ -2,4 +2,4 @@
 
 Porject works on IDE like netbeans, intellij and others.
 
-Here I implement the boardgame AMPHIPOLIS.
+Here I implement the boardgame AMPHIPOLIS, with Model-View-Controller implementation.
