@@ -1,6 +1,7 @@
 # HY252-Project-Ampipolis
 
-Porject works on IDE like netbeans, intellij and others.
+Amphipolis Boardgame Porject works on IDE like netbeans, intellij and others.
+
 
 • Individual project.
 
