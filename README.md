@@ -1,6 +1,6 @@
 # HY252-Project-Ampipolis
 
-Amphipolis Boardgame Porject works on IDE like netbeans, intellij and others.
+Amphipolis Boardgame Project works on IDE like netbeans, intellij and others.
 
 
 • Individual project.
